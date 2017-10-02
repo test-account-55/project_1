@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  /*align-items: center;*/
+}
+
+
+header {
+  /*text-align: center;*/
+}
+
+section {
+  /*background-color: pink;*/
+  /*width: 50%;*/
+}
+
+img {
+  /*width: 100%;*/
+  /*border-radius: 50%;*/
+}
+
+section {
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  /*align-items: center;*/
+}
+
+div {
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  /*align-items: center;*/
+}
+
+div {
+  /*width: 90%;*/
+}
+
+h3 {
+  /*background-color: red;*/
+  /*color: white;*/
+  /*text-transform: uppercase;*/
+  /*padding: 10px;*/
+  /*border-radius: 8px;*/
+}
+
+p {
+  /*width: 100%;*/
+  /*padding: 10px;*/
+}
+
+section {
+  /*padding: 30px;*/
+  /*border-radius: 8px;*/
+  /*border: 5px solid salmon;*/
+}
+
+h3 {
+  /*margin: 0;*/
+  /*margin-top: 30px;*/
+}
+
+button {
+  /*padding: 10px;
+  border-radius: 8px;
+  border-style: none;
+  border: 2px solid blue;
+  background-color: lightblue;
+  font-size: 18px;
+  text-transform: uppercase;*/
+}
